@@ -1,0 +1,45 @@
+Instruction used: Instruction(name='AND', num_qubits=3, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 6), ('p', 6), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=4, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 14), ('cx', 14), ('ry', 2), ('rz', 1), ('rx', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=5, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 36), ('p', 23), ('rz', 20), ('ry', 10), ('rx', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=6, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 92), ('cx', 92), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=7, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 188), ('cx', 188), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=8, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 380), ('cx', 380), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=9, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 764), ('cx', 764), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=10, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 1532), ('cx', 1532), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=11, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 3068), ('cx', 3068), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=12, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 6140), ('cx', 6140), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=13, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 12284), ('cx', 12284), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=14, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 24572), ('cx', 24572), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=15, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 49148), ('cx', 49148), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=16, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 98300), ('cx', 98300), ('ry', 2), ('rx', 1), ('rz', 1)])
+
+Instruction used: Instruction(name='AND', num_qubits=17, num_clbits=0, params=[])
+Gates used: OrderedDict([('p', 196604), ('cx', 196604), ('ry', 2), ('rx', 1), ('rz', 1)])
+

@@ -1,0 +1,6 @@
+Gates used: OrderedDict([('rx', 27), ('rz', 24), ('cx', 17)])
+
+Gates used: OrderedDict([('rx', 126), ('rz', 102), ('cx', 89)])
+
+Gates used: OrderedDict([('rx', 466), ('rz', 394), ('cx', 367)])
+

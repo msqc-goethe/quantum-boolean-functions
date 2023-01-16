@@ -1,0 +1,15 @@
+#qubits:3 cx:2 
+#qubits:4 cx:3 
+#qubits:5 cx:4 
+#qubits:6 cx:5 
+#qubits:7 cx:6 
+#qubits:8 cx:7 
+#qubits:9 cx:8 
+#qubits:10 cx:9 
+#qubits:11 cx:10 
+#qubits:12 cx:11 
+#qubits:13 cx:12 
+#qubits:14 cx:13 
+#qubits:15 cx:14 
+#qubits:16 cx:15 
+#qubits:17 cx:16 

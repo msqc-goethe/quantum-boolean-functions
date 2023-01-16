@@ -1,0 +1,2 @@
+#qubits cx p rx ry rz
+8 10752 3070 0 0 9854

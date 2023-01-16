@@ -1,0 +1,69 @@
+Instruction used: Instruction(name='XOR', num_qubits=3, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 2)])
+
+Instruction used: Instruction(name='XOR', num_qubits=4, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 3)])
+
+Instruction used: Instruction(name='XOR', num_qubits=5, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 4)])
+
+Instruction used: Instruction(name='XOR', num_qubits=6, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 5)])
+
+Instruction used: Instruction(name='XOR', num_qubits=7, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 6)])
+
+Instruction used: Instruction(name='XOR', num_qubits=8, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 7)])
+
+Instruction used: Instruction(name='XOR', num_qubits=9, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 8)])
+
+Instruction used: Instruction(name='XOR', num_qubits=10, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 9)])
+
+Instruction used: Instruction(name='XOR', num_qubits=11, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 10)])
+
+Instruction used: Instruction(name='XOR', num_qubits=12, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 11)])
+
+Instruction used: Instruction(name='XOR', num_qubits=13, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 12)])
+
+Instruction used: Instruction(name='XOR', num_qubits=14, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 13)])
+
+Instruction used: Instruction(name='XOR', num_qubits=15, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 14)])
+
+Instruction used: Instruction(name='XOR', num_qubits=16, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 15)])
+
+Instruction used: Instruction(name='XOR', num_qubits=17, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 16)])
+
+Instruction used: Instruction(name='XOR', num_qubits=18, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 17)])
+
+Instruction used: Instruction(name='XOR', num_qubits=19, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 18)])
+
+Instruction used: Instruction(name='XOR', num_qubits=20, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 19)])
+
+Instruction used: Instruction(name='XOR', num_qubits=21, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 20)])
+
+Instruction used: Instruction(name='XOR', num_qubits=22, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 21)])
+
+Instruction used: Instruction(name='XOR', num_qubits=23, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 22)])
+
+Instruction used: Instruction(name='XOR', num_qubits=24, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 23)])
+
+Instruction used: Instruction(name='XOR', num_qubits=25, num_clbits=0, params=[])
+Gates used: OrderedDict([('cx', 24)])
+

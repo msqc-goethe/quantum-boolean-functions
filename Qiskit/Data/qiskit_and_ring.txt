@@ -1,0 +1,13 @@
+#qubits:3 rz:7 cx:6 ry:2 rx:1 
+#qubits:4 cx:28 rz:14 p:10 ry:9 rx:5 
+#qubits:5 cx:67 rz:61 ry:25 rx:12 
+#qubits:6 cx:191 rz:159 ry:51 rx:39 
+#qubits:7 cx:430 rz:274 ry:84 rx:46 
+#qubits:8 cx:871 rz:600 ry:192 rx:117 
+#qubits:9 cx:1776 rz:991 ry:224 rx:142 
+#qubits:10 cx:3587 rz:2000 ry:507 rx:255 
+#qubits:11 cx:7300 rz:3907 ry:751 rx:500 
+#qubits:12 cx:14655 rz:7922 ry:1327 rx:1130 
+#qubits:13 cx:28725 rz:16286 ry:3425 rx:2576 
+#qubits:14 cx:60298 rz:28949 ry:4657 rx:2420 
+#qubits:15 cx:120320 rz:60548 ry:9543 rx:5962 
