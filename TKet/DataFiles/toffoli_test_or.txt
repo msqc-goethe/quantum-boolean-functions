@@ -1,1 +1,0 @@
-#qubits cx p rx ry rz
